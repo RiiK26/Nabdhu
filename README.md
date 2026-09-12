@@ -55,7 +55,7 @@ There are two ways to install Nabdhu: downloading a pre-compiled binary, or buil
 If you prefer to compile Nabdhu natively on your system, you can build it using CMake:
 
 ```bash
-git clone https://github.com/ItsMe-RiiK/Nabdhu.git
+git clone https://github.com/RiiK26/Nabdhu.git
 cd Nabdhu
 
 # Generate build files and compile
