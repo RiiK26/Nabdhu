@@ -38,7 +38,7 @@ There are two ways to install Nabdhu: downloading a pre-compiled binary, or buil
 
 ### Option 1: Pre-Compiled Binary (Easiest)
 
-1. Go to the [Releases](https://github.com/ItsMe-RiiK/Nabdhu/releases) page and download the latest `nabdhu-linux-x86_64.tar.gz`.
+1. Go to the [Releases](https://github.com/RiiK26/Nabdhu/releases) page and download the latest `nabdhu-linux-x86_64.tar.gz`.
 2. Extract the archive and enter the folder:
    ```bash
    tar -xzvf nabdhu-linux-x86_64.tar.gz
